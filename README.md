@@ -11,11 +11,13 @@
 </p>
 
 </br>
-<picture align="center" style="margin: -20px 0 30px">
+<picture align="center" style="margin: -20px 0 30px" >
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=lunachtic&show_icons=true&theme=tokyonight"
   media="(prefers-color-scheme: dark)"
 />
+ </picture>
+ <picture align="center" style="margin: -20px 0 30px" >
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=lunachtic&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
