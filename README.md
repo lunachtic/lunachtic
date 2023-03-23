@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm lunachtic</h1>
 <h3 align="center">A passionate Full-Stack developer from Brazil</h3>
 
-<p align="center" style="margin: -20px 0 30px">
- <img src="https://komarev.com/ghpvc/?username=lunachtic&label=Profile%20views&color=0e75b6&style=flat" alt="lunachtic" /> \
+<p align="left" style="margin: -20px 0 30px">
+ <img src="https://komarev.com/ghpvc/?username=lunachtic&label=Profile%20views&color=0e75b6&style=flat" alt="lunachtic" />
 </p>
 
 
@@ -10,7 +10,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lunachtic&show_icons=true&locale=en&layout=compact" alt="lunachtic" />
 </p>
 
-<picture>
+<picture align="center" style="margin: -20px 0 30px">
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=lunachtic&show_icons=true&theme=tokyonight"
   media="(prefers-color-scheme: dark)"
