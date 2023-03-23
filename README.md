@@ -5,25 +5,10 @@
  <img src="https://komarev.com/ghpvc/?username=lunachtic&label=Profile%20views&color=0e75b6&style=flat" alt="lunachtic" />
 </p>
 
-
 <p align="center" style="margin: -20px 0 30px">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lunachtic&show_icons=true&locale=en&layout=compact" alt="lunachtic" />
 </p>
 
-</br>
-<picture align="center" style="margin: -20px 0 30px" >
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=lunachtic&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
- </picture>
- <picture align="center" style="margin: -20px 0 30px" >
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=lunachtic&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=lunachtic&show_icons=true" />
-</picture>
 
 <!--
 
