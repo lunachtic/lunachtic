@@ -1,5 +1,4 @@
 <h1 align="center">A passionate developer from Brazil</h1>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lunachtic&show_icons=true&locale=en&layout=compact" alt="lunachtic" />
 </p>
@@ -191,17 +190,12 @@
   </a>
 </p>
 
-
-
 <!--
-
 <p align="center" style="margin: -20px 0 30px" >
   <img alig src="https://github-profile-trophy.vercel.app/?username=lunachtic" />
 </p>
-
 ###
 **lunachtic/lunachtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
