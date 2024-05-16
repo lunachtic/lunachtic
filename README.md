@@ -1,11 +1,26 @@
+<h1 align="center">A new developer from Brazil</h1>
 
-<h1 align="center">A passionate developer from Brazil</h1>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lunachtic&show_icons=true&locale=en&layout=compact" alt="lunachtic" />
 </p>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=lunachtic&label=Profile%20views&color=0e75b6&style=flat" alt="lunachtic" />
 </p>
+
+## 🏆 GitHub Trophies
+<p align="center" style="margin: -20px 0 30px" >
+  <img alig src="https://github-profile-trophy.vercel.app/?username=lunachtic&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+### ✍️ Quote
+<p align="center" style="margin: -20px 0 30px" >
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center" style="margin: -20px 0 30px" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lunachtic&theme=dark&hide_border=false" />
+</p>
+
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -188,13 +203,13 @@
       width="40"
       height="40"
     />
-  </a>
+  </a> 
 </p>
 
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
 <!--
-<p align="center" style="margin: -20px 0 30px" >
-  <img alig src="https://github-profile-trophy.vercel.app/?username=lunachtic" />
-</p>
 ###
 **lunachtic/lunachtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
