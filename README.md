@@ -1,4 +1,4 @@
-<h1 align="center">A new developer from Brazil</h1>
+<h1 align="center">A Java developer from Brazil</h1>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lunachtic&show_icons=true&locale=en&layout=compact" alt="lunachtic" />
